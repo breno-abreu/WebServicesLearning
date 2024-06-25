@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "first_name": "pedro",
+        "last_name": "abreu",
+        "email": "pedroabreu@outlook.com",
+        "phone": "(43)9547-2980",
+        "links": [
+            "instagram.com/pedroabreu",
+            "github.com/pedroabreu",
+            "500px.com/pedroabreu"
+        ],
+        "jobs": [
+            {
+                "job_title": "it manager",
+                "job_company": "sco",
+                "year": 2008
+            },
+            {
+                "job_title": "forest engineer",
+                "job_company": "evil corp",
+                "year": 2022
+            },
+            {
+                "job_title": "professor",
+                "job_company": "evil corp",
+                "year": 2018
+            },
+            {
+                "job_title": "forest engineer",
+                "job_company": "skywalker sa",
+                "year": 2012
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "first_name": "julia",
+        "last_name": "silva",
+        "email": "juliasilva@outlook.com",
+        "phone": "(55)9446-7828",
+        "links": [
+            "linkedin.com/juliasilva",
+            "linkedin.com/juliasilva",
+            "instagram.com/juliasilva"
+        ],
+        "jobs": [
+            {
+                "job_title": "data engineer",
+                "job_company": "the black pearl university",
+                "year": 2018
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "first_name": "arnaldo",
+        "last_name": "silva",
+        "email": "arnaldosilva@outlook.com",
+        "phone": "(43)9639-4222",
+        "links": [
+            "facebook.com/arnaldosilva",
+            "linkedin.com/arnaldosilva"
+        ],
+        "jobs": [
+            {
+                "job_title": "forest engineer",
+                "job_company": "book store",
+                "year": 2002
+            },
+            {
+                "job_title": "personal trainer",
+                "job_company": "evil corp",
+                "year": 2014
+            },
+            {
+                "job_title": "professor",
+                "job_company": "the black pearl university",
+                "year": 2008
+            }
+        ]
+    }
+]
